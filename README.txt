@@ -1,3 +1,5 @@
+CG Knight!!
+
 This directory contains unpolished files which show how it's possible to use a
 custom Alembic library with Houdini.  This has been minimally tested with
 Linux.  Additional work would have to be done for other platforms.
